@@ -5,5 +5,8 @@ This repository currently provides the data used for the interpretability analys
 ## Data Description
 The datasets include variant prevalence and hospitalization information aggregated for the periods analyzed in the manuscript. These data were sourced from official government repositories:
 
-- **UK**: [Public Health England / UK Health Security Agency](https://www.gov.uk/government/organisations/uk-health-security-agency)  
-- **NYC**: [New York City Department of Health](https://www.nyc.gov/assets/doh/)  
+- **NYC**: NYC Department of Health: COVID-19. Accessed on 02 February 2025 (2024).  
+  [https://www.nyc.gov/site/doh/covid/covid-19-main.page](https://www.nyc.gov/site/doh/covid/covid-19-main.page)
+
+- **UK**: UKHSA: COVID-19 Dashboard. Accessed on 25 February 2025 (2023).  
+  [https://ukhsa-dashboard.data.gov.uk/respiratory-viruses/covid-19](https://ukhsa-dashboard.data.gov.uk/respiratory-viruses/covid-19)
